@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first", "first\first.csproj", "{5A00BFF9-8269-4B1D-8790-2A3C8FE1B3E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first.Droid", "Droid\first.Droid.csproj", "{2CFADA65-91D7-4A12-BAE6-3E05E1B9D6C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first.UITests", "UITests\first.UITests.csproj", "{0DE3B2DD-FB14-43E8-9E8C-26EA1B4889F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DE3B2DD-FB14-43E8-9E8C-26EA1B4889F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE3B2DD-FB14-43E8-9E8C-26EA1B4889F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE3B2DD-FB14-43E8-9E8C-26EA1B4889F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE3B2DD-FB14-43E8-9E8C-26EA1B4889F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFADA65-91D7-4A12-BAE6-3E05E1B9D6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFADA65-91D7-4A12-BAE6-3E05E1B9D6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFADA65-91D7-4A12-BAE6-3E05E1B9D6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFADA65-91D7-4A12-BAE6-3E05E1B9D6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A00BFF9-8269-4B1D-8790-2A3C8FE1B3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A00BFF9-8269-4B1D-8790-2A3C8FE1B3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A00BFF9-8269-4B1D-8790-2A3C8FE1B3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A00BFF9-8269-4B1D-8790-2A3C8FE1B3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
