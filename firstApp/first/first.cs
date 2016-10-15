@@ -25,6 +25,7 @@ namespace first
 		protected override void OnStart ()
 		{
 			// Handle when your app starts
+			// ok
 		}
 
 		protected override void OnSleep ()
